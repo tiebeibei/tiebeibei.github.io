@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tiebeibei.com</id>
     <title>Gridea</title>
-    <updated>2020-03-21T16:45:31.937Z</updated>
+    <updated>2020-03-21T23:25:06.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tiebeibei.com"/>
     <link rel="self" href="https://tiebeibei.com/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>tiebeibei.com自娱自乐</subtitle>
     <logo>https://tiebeibei.com/images/avatar.png</logo>
     <icon>https://tiebeibei.com/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[tiebeibei.com]]></title>
+        <id>https://tiebeibei.com/post/tiebeibeicom/</id>
+        <link href="https://tiebeibei.com/post/tiebeibeicom/">
+        </link>
+        <updated>2020-03-21T17:40:04.000Z</updated>
+        <content type="html"><![CDATA[<p>时间是最终的主宰<br>
+所有人都会败给时间<br>
+在时间面前<br>
+一切都是短暂的<br>
+好多事已经忘了<br>
+一些人依稀记得</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://tiebeibei.com/post/hello-gridea/</id>

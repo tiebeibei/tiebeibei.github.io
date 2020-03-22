@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tiebeibei.github.io</id>
     <title>Gridea</title>
-    <updated>2020-03-22T12:19:39.359Z</updated>
+    <updated>2020-03-22T13:32:05.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tiebeibei.github.io"/>
     <link rel="self" href="https://tiebeibei.github.io/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://tiebeibei.github.io/images/avatar.png</logo>
     <icon>https://tiebeibei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[点点纷飞]]></title>
+        <id>https://tiebeibei.github.io/post/dian-dian-fen-fei/</id>
+        <link href="https://tiebeibei.github.io/post/dian-dian-fen-fei/">
+        </link>
+        <updated>2020-03-22T13:17:44.000Z</updated>
+        <content type="html"><![CDATA[<p>冷雨扑向我<br>
+点点纷飞<br>
+千度高温波涛由你涌起<br>
+个个说我太狂笑我不羁<br>
+敢于交出真情哪算可鄙<br>
+……</p>
+<p>微雨中，身边车辆飞过<br>
+街里路人走过<br>
+交通灯催促过<br>
+剩下独是我跟你<br>
+就让宇宙塌下<br>
+世界变了荒地<br>
+日月碎做陨石<br>
+……</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[tiebeibei.com]]></title>
         <id>https://tiebeibei.github.io/post/tiebeibeicom/</id>

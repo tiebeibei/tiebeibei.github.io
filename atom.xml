@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tiebeibei.github.io</id>
     <title>tiebeibei.com</title>
-    <updated>2020-03-23T10:11:31.716Z</updated>
+    <updated>2020-03-23T10:32:39.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tiebeibei.github.io"/>
     <link rel="self" href="https://tiebeibei.github.io/atom.xml"/>
-    <subtitle>tiebeibei.com自娱自乐</subtitle>
+    <subtitle>点右上角展开封面，再点微博图标访问我的新浪微博哦</subtitle>
     <logo>https://tiebeibei.github.io/images/avatar.png</logo>
     <icon>https://tiebeibei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, tiebeibei.com</rights>

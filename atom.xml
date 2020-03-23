@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tiebeibei.github.io</id>
     <title>tiebeibei.com</title>
-    <updated>2020-03-23T08:17:06.756Z</updated>
+    <updated>2020-03-23T08:31:44.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tiebeibei.github.io"/>
     <link rel="self" href="https://tiebeibei.github.io/atom.xml"/>
@@ -48,6 +48,28 @@
 时间并不曾解决什么问题<br>
 只是让问题变得不再重要</p>
 <p>tiebeibei@126.com</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://tiebeibei.github.io/post/about/</id>
+        <link href="https://tiebeibei.github.io/post/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<pre><code>  &gt; 自娱自乐，开心就好……
+</code></pre>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<pre><code>  &gt;  理工男，老腊肉……
+</code></pre>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<pre><code>  &gt; 黑科技……
+</code></pre>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<pre><code>  &gt; tiebeibei@126.com</code></pre>
 ]]></content>
     </entry>
     <entry>

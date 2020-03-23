@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tiebeibei.github.io</id>
     <title>tiebeibei.com</title>
-    <updated>2020-03-23T10:33:07.505Z</updated>
+    <updated>2020-03-23T10:50:32.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tiebeibei.github.io"/>
     <link rel="self" href="https://tiebeibei.github.io/atom.xml"/>
@@ -34,20 +34,15 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[tiebeibei@126.com]]></title>
+        <title type="html"><![CDATA[欢迎访问我的新浪微博]]></title>
         <id>https://tiebeibei.github.io/post/tiebeibeicom/</id>
         <link href="https://tiebeibei.github.io/post/tiebeibeicom/">
         </link>
         <updated>2020-03-21T17:40:04.000Z</updated>
-        <content type="html"><![CDATA[<p>时间是最终的主宰<br>
-大家都败给了时间<br>
-在时间面前<br>
-一切都是短暂的<br>
-好多事已经忘了<br>
-一些人依稀记得<br>
-时间并不曾解决什么问题<br>
-只是让问题变得不再重要</p>
-<p>tiebeibei@126.com</p>
+        <content type="html"><![CDATA[<p>点本页面右上角，展开封面<br>
+点封面下方那个新浪微博LOGO<br>
+就可以访问我的新浪微博了</p>
+<p>tiebeibe.com</p>
 ]]></content>
     </entry>
     <entry>
@@ -69,7 +64,7 @@
 <pre><code>  &gt; 黑科技……
 </code></pre>
 <h2 id="联系我呀">📬 联系我呀</h2>
-<pre><code>  &gt; tiebeibei@126.com</code></pre>
+<pre><code>  &gt; tiebeibei@126.com，13735882577</code></pre>
 ]]></content>
     </entry>
 </feed>

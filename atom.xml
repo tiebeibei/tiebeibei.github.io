@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tiebeibei.github.io</id>
     <title>tiebeibei.com</title>
-    <updated>2020-07-26T01:39:07.062Z</updated>
+    <updated>2020-07-26T01:59:22.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tiebeibei.github.io"/>
     <link rel="self" href="https://tiebeibei.github.io/atom.xml"/>
@@ -43,7 +43,7 @@
         <updated>2020-03-21T17:40:04.000Z</updated>
         <content type="html"><![CDATA[<p>点本页面右上角，展开封面<br>
 点封面下方那个新浪微博LOGO<br>
-就可以访问tiebeibei新浪微博了</p>
+就可以访问tiebeibei新浪微博了👇</p>
 <p>https://weibo.com/u/2867259082</p>
 <p>tiebeibei.com</p>
 ]]></content>
